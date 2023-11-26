@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gulnabi-Afridi</h1>
 <h3 align="center">A MERN Stack developer | Next.js | Typescript</h3>
 
-<img align=“right” alt=“codeing” width=“400” sec=“https://iconscout.com/lottie-animation/programmer-developed-website-9084818”>
+<img align=“right” alt=“codeing” width=“400” src=“https://iconscout.com/lottie-animation/programmer-developed-website-9084818”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulnabi-afridi&label=Profile%20views&color=0e75b6&style=flat" alt="gulnabi-afridi" /> </p>
 
 - 💬 Ask me about **react js, next js, tailwind css, material UI ,typescript, node, mongodb, express, stripe**
 
 - 📫 How to reach me **gulnabifdi@gmail.com**
-
-- ⚡ Fun fact **I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
