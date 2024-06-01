@@ -28,3 +28,9 @@ JavaScript   2 hrs 34 mins   ████▒░░░░░░░░░░░░
 CSS          1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
 JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 TOML   
+
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
